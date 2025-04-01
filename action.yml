@@ -1,6 +1,6 @@
 name: 'Attach pull request to Asana task'
 description: 'Check the pull request description for specific Asana task URLs and add the pull request as an attachment to those tasks'
-author: Asana
+author: osylko-lhk
 branding:
   icon: circle
   color: green
