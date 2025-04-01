@@ -14823,7 +14823,7 @@ exports.BLOCKED_PROJECTS = "blocked-projects";
 
 Object.defineProperty(exports, "__esModule", ({ value: true }));
 exports.RETRY_DELAY = exports.RETRIES = exports.ACTION_URL = exports.BASE_URL = void 0;
-exports.BASE_URL = "https://github.integrations.asana.plus/custom/v1";
+exports.BASE_URL = "https://github-qa.integrations.asana.plus/custom/v1";
 exports.ACTION_URL = "actions/widget";
 exports.RETRIES = 3;
 exports.RETRY_DELAY = 1000;
